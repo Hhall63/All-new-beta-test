@@ -8,8 +8,8 @@ atp:true
 si426:{
 name:'Image_1',
 type:1268,
-from:1,
-to:90,
+from:1822,
+to:1911,
 rp:0,
 rpa:0,
 mdi:'si426c',
@@ -175,8 +175,8 @@ vb:[-1,-1,1,1]
 si434:{
 name:'Image_Group_1',
 type:1268,
-from:1,
-to:90,
+from:1822,
+to:1911,
 rp:0,
 rpa:0,
 mdi:'si434c',
@@ -347,8 +347,8 @@ vb:[-1,-1,1,1]
 si445:{
 name:'default_image(2)',
 type:15,
-from:1,
-to:90,
+from:1822,
+to:1911,
 rp:0,
 rpa:0,
 mdi:'si445c',
@@ -529,8 +529,8 @@ vb:[-1,-1,2733,1041]
 si457:{
 name:'Image_Group_Text_1',
 type:1268,
-from:1,
-to:90,
+from:1822,
+to:1911,
 rp:0,
 rpa:0,
 mdi:'si457c',
@@ -700,8 +700,8 @@ vb:[-1,-1,1,1]
 si465:{
 name:'Text_1',
 type:1250,
-from:1,
-to:90,
+from:1822,
+to:1911,
 rp:0,
 rpa:0,
 mdi:'si465c',
@@ -853,8 +853,8 @@ vb:[-1,-1,2,2]
 si475:{
 name:'Text_2',
 type:1250,
-from:1,
-to:90,
+from:1822,
+to:1911,
 rp:0,
 rpa:0,
 mdi:'si475c',
@@ -1006,8 +1006,8 @@ vb:[-1,-1,2,2]
 si2547:{
 name:'Block_Button_1',
 type:1268,
-from:1,
-to:90,
+from:1822,
+to:1911,
 rp:0,
 rpa:0,
 mdi:'si2547c',
@@ -1173,8 +1173,8 @@ vb:[-1,-1,1,1]
 si2555:{
 name:'Block_Button_Group_1',
 type:1268,
-from:1,
-to:90,
+from:1822,
+to:1911,
 rp:0,
 rpa:0,
 mdi:'si2555c',
@@ -1377,8 +1377,8 @@ vb:[-1,-1,1,1]
 si2563:{
 name:'Button_45',
 type:29,
-from:1,
-to:90,
+from:1822,
+to:1911,
 rp:0,
 rpa:0,
 mdi:'si2563c',
@@ -1406,7 +1406,7 @@ efph:{
 }
 ,
 eflh:[],
-oca:'{"scripts":[{"then":[["cp.jumpToNextSlide(2728);"]]}]}',
+oca:'{"scripts":[{"then":[["cp.jumpToNextSlide(2728);"],["cp.runJavascript(\\"YWxlcnQoIkphdmFTY3JpcHQgaXMgd29ya2luZyEiKTsKY29uc29sZS5sb2coIlRlc3QgbG9nOiBKYXZhU2NyaXB0IGlzIHJ1bm5pbmcgaW4gQ2FwdGl2YXRlLiIpOwo=\\",\\"_self\\");"]]}]}',
 iflbx:false,
 ipflbx:true,
 si:[]
@@ -1533,8 +1533,8 @@ vb:[-2,-2,-1,-1]
 si2579:{
 name:'Button_46',
 type:29,
-from:1,
-to:90,
+from:1822,
+to:1911,
 rp:0,
 rpa:0,
 mdi:'si2579c',
@@ -1688,8 +1688,8 @@ vb:[-2,-2,-1,-1]
 si2595:{
 name:'Button_47',
 type:29,
-from:1,
-to:90,
+from:1822,
+to:1911,
 rp:0,
 rpa:0,
 mdi:'si2595c',
@@ -1843,8 +1843,8 @@ vb:[-2,-2,-1,-1]
 si2611:{
 name:'Button_48',
 type:29,
-from:1,
-to:90,
+from:1822,
+to:1911,
 rp:0,
 rpa:0,
 mdi:'si2611c',
@@ -1998,8 +1998,8 @@ vb:[-2,-2,-1,-1]
 si2627:{
 name:'Button_49',
 type:29,
-from:1,
-to:90,
+from:1822,
+to:1911,
 rp:0,
 rpa:0,
 mdi:'si2627c',
@@ -2153,8 +2153,8 @@ vb:[-2,-2,-1,-1]
 si2643:{
 name:'Button_50',
 type:29,
-from:1,
-to:90,
+from:1822,
+to:1911,
 rp:0,
 rpa:0,
 mdi:'si2643c',
@@ -2308,8 +2308,8 @@ vb:[-2,-2,-1,-1]
 si2659:{
 name:'Button_51',
 type:29,
-from:1,
-to:90,
+from:1822,
+to:1911,
 rp:0,
 rpa:0,
 mdi:'si2659c',
@@ -2463,8 +2463,8 @@ vb:[-2,-2,-1,-1]
 si2675:{
 name:'Button_52',
 type:29,
-from:1,
-to:90,
+from:1822,
+to:1911,
 rp:0,
 rpa:0,
 mdi:'si2675c',
@@ -2618,8 +2618,8 @@ vb:[-2,-2,-1,-1]
 si2691:{
 name:'Button_53',
 type:29,
-from:1,
-to:90,
+from:1822,
+to:1911,
 rp:0,
 rpa:0,
 mdi:'si2691c',
@@ -2773,8 +2773,8 @@ vb:[-2,-2,-1,-1]
 si2707:{
 name:'Button_54',
 type:29,
-from:1,
-to:90,
+from:1822,
+to:1911,
 rp:0,
 rpa:0,
 mdi:'si2707c',
@@ -2928,8 +2928,8 @@ vb:[-2,-2,-1,-1]
 Slide408:{
 lb:'Introduction 1',
 id:408,
-from:1,
-to:90,
+from:1822,
+to:1911,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -2987,6 +2987,10 @@ bookmarks:[]
 qs:'',
 iph:{
 2728:{
+ts:''
+}
+,
+3616:{
 ts:''
 }
 
@@ -22328,7 +22332,7 @@ pprtd:false,
 peon:false,
 fadeInAtStart:0,
 fadeOutAtEnd:0,
-endAction:'cp.runJavascript("","_self");'
+endAction:'cp.closeProject();'
 },
 borderProperties:{
 hasBorder:false
